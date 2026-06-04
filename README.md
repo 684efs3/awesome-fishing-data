@@ -125,8 +125,7 @@ Contributions welcome — see [Contributing](#contributing).
 
 - [FishRadar](https://fishradar.ai) — Live fishing conditions, location-aware
   regulations, and species guidance. Browse
-  [regulations](https://fishradar.ai/fishing/) and
-  [species](https://fishradar.ai/fishing/species/) on the web, or get the app on
+  [regulations and species](https://fishradar.ai/fishing/) on the web, or get the app on
   [iOS](https://apps.apple.com/us/app/fishradar/id6764589903).
 - [pygbif](https://github.com/gbif/pygbif) — Python client for the GBIF API.
 - [rfishbase](https://github.com/ropensci/rfishbase) — R interface to FishBase
