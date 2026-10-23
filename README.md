@@ -39,6 +39,7 @@ Contributions welcome — see [Contributing](#contributing).
 - [FAO ASFIS List of Species](https://www.fao.org/fishery/en/collection/asfis/en) —
   Standardized 3-alpha codes, scientific and common names for aquatic species
   used in fishery statistics.
+- [FishReference](https://fishreference.com/) — Free US-focused database of 1,286 fish species with photos, taxonomy, habitat and the states where each species has been recorded.
 - [**fishing-species-catalog**](https://github.com/linkanlabs-ctrl/fishing-species-catalog)
   (this org) — A compact, multilingual catalog of 196 sport-fishing species
   with stable ids, aliases, environment, latitude band, and conservation flags.
